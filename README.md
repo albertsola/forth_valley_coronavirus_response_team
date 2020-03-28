@@ -35,6 +35,7 @@ Basically it is organising 3 things:
  * Filament - PETG 1Kg
  * Filament - PLA 1Kg
  * GBC HiClear Binding Covers, 200 micron, A4 (A4 clear transparent sheets)
+ * 1/2mm A4 acetate sheets
  * 3/4 inch 19mm Button Hole Elastic Tape Stretchable Cord for Trouser Waistbands
  * more coming soon...
 
@@ -63,3 +64,4 @@ We would not keep it to just 3D Printing, this is the first need we had in Spain
 ## Related
 
  * [Tracking Coronavirus in Scotland](https://coronavirusscot.uk/)
+ * [Clyde Valley Appeal](https://planetradio.co.uk/clyde/local/news/nhs-hospital-appeal-help-visors/)
