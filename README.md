@@ -32,13 +32,16 @@ Basically it is organising 3 things:
 
 **Materials Required**
 
- * PETG 1Kg filament
- * Plastic sheet (200 micron)
+ * Filament - PETG 1Kg
+ * Filament - PLA 1Kg
+ * GBC HiClear Binding Covers, 200 micron, A4 (A4 clear transparent sheets)
+ * 3/4 inch 19mm Button Hole Elastic Tape Stretchable Cord for Trouser Waistbands
  * more coming soon...
 
 **Equipment Required**
 
- * Face masks
+ * Face Masks
+ * Medical Gowns
  * more coming soon...
 
 ## Get in touch
