@@ -46,7 +46,7 @@ Basically it is organising 3 things:
 
 ## Get in touch
 
- * [Please click here to complete our online form](https://docs.google.com/forms/d/e/1FAIpQLSfXQH6yFOBYBoYi-R-toVZE96RoqewmLZsxsjAFZDBniuNVaw/viewform)
+ * [Please click here to complete our online contact form](https://docs.google.com/forms/d/e/1FAIpQLSfXQH6yFOBYBoYi-R-toVZE96RoqewmLZsxsjAFZDBniuNVaw/viewform)
 
 ## Resources
 
@@ -59,3 +59,7 @@ Basically it is organising 3 things:
 ## Long term plan
 
 We would not keep it to just 3D Printing, this is the first need we had in Spain, but then it escalated to all kind of other needs from health care professionals. They run out of all kind of protective equipment, valves, respiratories, gloves, etc.
+
+## Related
+
+ * [Tracking Coronavirus in Scotland](https://coronavirusscot.uk/)
