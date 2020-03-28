@@ -46,7 +46,7 @@ Basically it is organising 3 things:
 
 ## Get in touch
 
- * coming soon...
+ * [Please click here to complete our online form](https://docs.google.com/forms/d/e/1FAIpQLSfXQH6yFOBYBoYi-R-toVZE96RoqewmLZsxsjAFZDBniuNVaw/viewform)
 
 ## Resources
 
