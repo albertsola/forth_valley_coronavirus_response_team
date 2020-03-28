@@ -50,11 +50,11 @@ Basically it is organising 3 things:
 
 ## Resources
 
- * 3D Printing: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3
- * Cutting: https://prusa3d.com/downloads/others/COVID19_SHIELD_FOIL.pdf
- * How to: https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527
- * Disinfection: https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true
- * Medical gowns: https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4
+ * 3D Printing: [https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3)
+ * Cutting: [https://prusa3d.com/downloads/others/COVID19_SHIELD_FOIL.pdf](https://prusa3d.com/downloads/others/COVID19_SHIELD_FOIL.pdf)
+ * How to: [https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527](https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527)
+ * Disinfection: [https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true)
+ * Medical gowns: [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4)
 
 ## Long term plan
 
