@@ -6,6 +6,8 @@ Each country is trying to fight world wide war 3 on their own without realising 
 
 Do you want to fight? Or do you want to wait for Boris Johnson and Donald Trump to solve this war?
 
+<img src="https://github.com/albertsola/forth_valley_coronavirus_response_team/blob/master/assets/nurse.jpg?raw=true" alt="Protective equipment" width="300px"/>
+
 **We're looking for warriors that want to win this war. We want to build an army and fight back!**
 
 Forth Valley Hospital have requested 180 face masks - staff want to pay the costs but we do not think this should be the case.
@@ -20,6 +22,8 @@ We would like you to get in touch if you can help us in any of our current goals
 - Share instruction manuals and spread the message
 
 ## Supply and Demand
+
+<img src="https://github.com/albertsola/forth_valley_coronavirus_response_team/blob/master/assets/masks.jpg?raw=true" alt="Protective equipment" width="300px"/>
 
 Basically it is organising 3 things:
 - Healthcare professionals (Demand)
