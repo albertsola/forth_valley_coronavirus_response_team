@@ -58,7 +58,7 @@ Basically it is organising 3 things:
  * How to: [https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527](https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527)
  * Disinfection: [https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true)
  * Medical gowns: [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4)
- * Comprehensive Open Source Guide: [https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic](https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic)
+ * Comprehensive Open Source Guide: [https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic](https://docs.google.com/document/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/edit?usp=sharing)
 
 ## Long term plan
 
