@@ -59,6 +59,7 @@ Basically it is organising 3 things:
  * Disinfection: [https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true)
  * Medical gowns: [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4)
  * Comprehensive Open Source Guide: [https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic](https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic)
+
 ## Long term plan
 
 We would not keep it to just 3D Printing, this is the first need we had in Spain, but then it escalated to all kind of other needs from health care professionals. They run out of all kind of protective equipment, valves, respiratories, gloves, etc.
