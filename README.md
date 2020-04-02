@@ -47,7 +47,8 @@ Basically it is organising 3 things:
 
 ## Get in touch
 
- * [Please click here to complete our online contact form](https://docs.google.com/forms/d/e/1FAIpQLSfXQH6yFOBYBoYi-R-toVZE96RoqewmLZsxsjAFZDBniuNVaw/viewform)
+ * [Contact us directly using our online form](https://docs.google.com/forms/d/e/1FAIpQLSfXQH6yFOBYBoYi-R-toVZE96RoqewmLZsxsjAFZDBniuNVaw/viewform)
+ * [Discuss on Nextdoor](https://nextdoor.co.uk/g/pyzpr8m6g/)
 
 ## Resources
 
