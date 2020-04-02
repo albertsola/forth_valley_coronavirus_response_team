@@ -10,7 +10,7 @@ Do you want to fight? Or do you want to wait for Boris Johnson and Donald Trump 
 
 **We're looking for warriors that want to win this war. We want to build an army and fight back!**
 
-Forth Valley Hospital have requested 180 face masks - staff want to pay the costs but we do not think this should be the case.
+Many Forth Valley healthcare professionals have requested face masks - they want to pay the costs themselves but we do not think this should be the case.
 
 ## How can you help?
 
