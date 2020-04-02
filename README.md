@@ -56,7 +56,7 @@ Basically it is organising 3 things:
  * How to: [https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527](https://manual.prusa3d.com/Guide/How+to+assemble+the+Prusa+Face+Shield+-+RC1-RC2-RC3/1527)
  * Disinfection: [https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true](https://help.prusa3d.com/en/article/prusa-face-shield-disinfection_125457?preview=true)
  * Medical gowns: [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/medical-gowns#g4)
-
+ * Comprehensive Open Source Guide: [https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic](https://docs.google.com/document/u/0/d/1-71FJTmI1Q1kjSDLP0EegMERjg_0kk_7UfaRE4r66Mg/mobilebasic)
 ## Long term plan
 
 We would not keep it to just 3D Printing, this is the first need we had in Spain, but then it escalated to all kind of other needs from health care professionals. They run out of all kind of protective equipment, valves, respiratories, gloves, etc.
@@ -64,4 +64,6 @@ We would not keep it to just 3D Printing, this is the first need we had in Spain
 ## Related
 
  * [Tracking Coronavirus in Scotland](https://coronavirusscot.uk/)
+ * [Find Local Volunteer Groups](https://covidmutualaid.org/local-groups/)
  * [Clyde Valley Appeal](https://planetradio.co.uk/clyde/local/news/nhs-hospital-appeal-help-visors/)
+ * [How soap kills coronavirus](https://www.theguardian.com/commentisfree/2020/mar/12/science-soap-kills-coronavirus-alcohol-based-disinfectants)
